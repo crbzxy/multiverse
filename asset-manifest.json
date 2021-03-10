@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/crbzxy.github.io/multiverse/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/crbzxy.github.io/multiverse/static/js/main.21864f19.chunk.js",
-    "main.js.map": "/crbzxy.github.io/multiverse/static/js/main.21864f19.chunk.js.map",
-    "runtime-main.js": "/crbzxy.github.io/multiverse/static/js/runtime-main.c133c6f4.js",
-    "runtime-main.js.map": "/crbzxy.github.io/multiverse/static/js/runtime-main.c133c6f4.js.map",
-    "static/js/2.3f2fa54a.chunk.js": "/crbzxy.github.io/multiverse/static/js/2.3f2fa54a.chunk.js",
-    "static/js/2.3f2fa54a.chunk.js.map": "/crbzxy.github.io/multiverse/static/js/2.3f2fa54a.chunk.js.map",
-    "static/js/3.513c48ae.chunk.js": "/crbzxy.github.io/multiverse/static/js/3.513c48ae.chunk.js",
-    "static/js/3.513c48ae.chunk.js.map": "/crbzxy.github.io/multiverse/static/js/3.513c48ae.chunk.js.map",
-    "index.html": "/crbzxy.github.io/multiverse/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/crbzxy.github.io/multiverse/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.3f2fa54a.chunk.js.LICENSE.txt": "/crbzxy.github.io/multiverse/static/js/2.3f2fa54a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/crbzxy.github.io/multiverse/static/media/logo.6ce24c58.svg"
+    "main.css": "/multiverse/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/multiverse/static/js/main.21864f19.chunk.js",
+    "main.js.map": "/multiverse/static/js/main.21864f19.chunk.js.map",
+    "runtime-main.js": "/multiverse/static/js/runtime-main.c5e85295.js",
+    "runtime-main.js.map": "/multiverse/static/js/runtime-main.c5e85295.js.map",
+    "static/js/2.3f2fa54a.chunk.js": "/multiverse/static/js/2.3f2fa54a.chunk.js",
+    "static/js/2.3f2fa54a.chunk.js.map": "/multiverse/static/js/2.3f2fa54a.chunk.js.map",
+    "static/js/3.513c48ae.chunk.js": "/multiverse/static/js/3.513c48ae.chunk.js",
+    "static/js/3.513c48ae.chunk.js.map": "/multiverse/static/js/3.513c48ae.chunk.js.map",
+    "index.html": "/multiverse/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/multiverse/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3f2fa54a.chunk.js.LICENSE.txt": "/multiverse/static/js/2.3f2fa54a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/multiverse/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c133c6f4.js",
+    "static/js/runtime-main.c5e85295.js",
     "static/js/2.3f2fa54a.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.21864f19.chunk.js"
