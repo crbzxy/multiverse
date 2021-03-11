@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/multiverse/static/css/main.56e713a6.chunk.css",
-    "main.js": "/multiverse/static/js/main.4cf3909f.chunk.js",
-    "main.js.map": "/multiverse/static/js/main.4cf3909f.chunk.js.map",
-    "runtime-main.js": "/multiverse/static/js/runtime-main.6a796c94.js",
-    "runtime-main.js.map": "/multiverse/static/js/runtime-main.6a796c94.js.map",
-    "static/js/2.48fa5588.chunk.js": "/multiverse/static/js/2.48fa5588.chunk.js",
-    "static/js/2.48fa5588.chunk.js.map": "/multiverse/static/js/2.48fa5588.chunk.js.map",
-    "static/js/3.abc93907.chunk.js": "/multiverse/static/js/3.abc93907.chunk.js",
-    "static/js/3.abc93907.chunk.js.map": "/multiverse/static/js/3.abc93907.chunk.js.map",
+    "main.css": "/multiverse/static/css/main.4cd7a4cb.chunk.css",
+    "main.js": "/multiverse/static/js/main.4f636faf.chunk.js",
+    "main.js.map": "/multiverse/static/js/main.4f636faf.chunk.js.map",
+    "runtime-main.js": "/multiverse/static/js/runtime-main.cfcd671e.js",
+    "runtime-main.js.map": "/multiverse/static/js/runtime-main.cfcd671e.js.map",
+    "static/js/2.a2631429.chunk.js": "/multiverse/static/js/2.a2631429.chunk.js",
+    "static/js/2.a2631429.chunk.js.map": "/multiverse/static/js/2.a2631429.chunk.js.map",
+    "static/js/3.5b694ecf.chunk.js": "/multiverse/static/js/3.5b694ecf.chunk.js",
+    "static/js/3.5b694ecf.chunk.js.map": "/multiverse/static/js/3.5b694ecf.chunk.js.map",
     "index.html": "/multiverse/index.html",
-    "static/css/main.56e713a6.chunk.css.map": "/multiverse/static/css/main.56e713a6.chunk.css.map",
-    "static/js/2.48fa5588.chunk.js.LICENSE.txt": "/multiverse/static/js/2.48fa5588.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/multiverse/static/media/logo.6ce24c58.svg"
+    "static/css/main.4cd7a4cb.chunk.css.map": "/multiverse/static/css/main.4cd7a4cb.chunk.css.map",
+    "static/js/2.a2631429.chunk.js.LICENSE.txt": "/multiverse/static/js/2.a2631429.chunk.js.LICENSE.txt",
+    "static/media/scene.2add95ee.gltf": "/multiverse/static/media/scene.2add95ee.gltf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a796c94.js",
-    "static/js/2.48fa5588.chunk.js",
-    "static/css/main.56e713a6.chunk.css",
-    "static/js/main.4cf3909f.chunk.js"
+    "static/js/runtime-main.cfcd671e.js",
+    "static/js/2.a2631429.chunk.js",
+    "static/css/main.4cd7a4cb.chunk.css",
+    "static/js/main.4f636faf.chunk.js"
   ]
 }
