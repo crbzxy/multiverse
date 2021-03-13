@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/multiverse/static/css/main.83e182de.chunk.css",
-    "main.js": "/multiverse/static/js/main.deca1bb4.chunk.js",
-    "main.js.map": "/multiverse/static/js/main.deca1bb4.chunk.js.map",
+    "main.js": "/multiverse/static/js/main.a9149bd8.chunk.js",
+    "main.js.map": "/multiverse/static/js/main.a9149bd8.chunk.js.map",
     "runtime-main.js": "/multiverse/static/js/runtime-main.cfcd671e.js",
     "runtime-main.js.map": "/multiverse/static/js/runtime-main.cfcd671e.js.map",
     "static/js/2.a2631429.chunk.js": "/multiverse/static/js/2.a2631429.chunk.js",
@@ -12,7 +12,8 @@
     "index.html": "/multiverse/index.html",
     "static/css/main.83e182de.chunk.css.map": "/multiverse/static/css/main.83e182de.chunk.css.map",
     "static/js/2.a2631429.chunk.js.LICENSE.txt": "/multiverse/static/js/2.a2631429.chunk.js.LICENSE.txt",
-    "static/media/gallina.66c8d3da.gltf": "/multiverse/static/media/gallina.66c8d3da.gltf",
+    "static/media/bodega.c79cb763.gltf": "/multiverse/static/media/bodega.c79cb763.gltf",
+    "static/media/gallina.97489ead.gltf": "/multiverse/static/media/gallina.97489ead.gltf",
     "static/media/scene.2add95ee.gltf": "/multiverse/static/media/scene.2add95ee.gltf",
     "static/media/titulo.22bc3c14.gltf": "/multiverse/static/media/titulo.22bc3c14.gltf"
   },
@@ -20,6 +21,6 @@
     "static/js/runtime-main.cfcd671e.js",
     "static/js/2.a2631429.chunk.js",
     "static/css/main.83e182de.chunk.css",
-    "static/js/main.deca1bb4.chunk.js"
+    "static/js/main.a9149bd8.chunk.js"
   ]
 }
