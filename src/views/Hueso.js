@@ -1,6 +1,10 @@
 import React from "react";
 
 import ShitHappens from "../models/scene.gltf";
+import Titulo from "../models/titulo.gltf";
+import Gallina from "../models/gallina.gltf";
+import Bodega from "../models/bodega.gltf";
+require('aframe')
 
 // import campo from "../img/equ.jpg";
 
@@ -12,45 +16,64 @@ const Hueso = () => {
       <div className="scene">
         <>
           {" "}
-          <a-scene background="color: red">
-            <a-camera position="2 6 2"></a-camera>
+          <a-scene   >
+            <a-camera position="3 7 2"></a-camera>
+            <a-cursor></a-cursor>
+            <a-entity daydream-controls></a-entity>
             <a-assets>
               {/* <img id="campo" src={campo} alt="" /> */}
-              
+
               <a-asset-item id="shit" src={ShitHappens}></a-asset-item>
+              <a-asset-item id="Titulo" src={Titulo}></a-asset-item>
+              <a-asset-item id="Gallina" src={Gallina}></a-asset-item>
+              <a-asset-item id="Bodega" src={Bodega}></a-asset-item>
             </a-assets>
 
-            <a-entity
-              environment="active: true;
-            skyType: gradient; 
-            skyColor: #89c2ff; 
-            horizonColor: #9ec3ea;
-            fog: 0.676; 
-            grid:none;
-            flatShading:false; 
-            ground: canyon; 
-            groundYScale: 0.470;
-            groundTexture: squares;
-            groundColor: #eff2f0; 
-            groundColor2: #cfcfcf; 
-            groundColor3: #dddddd; 
-            dressing: stones;
-            dressingAmount:100;
-            dressingColor: #5a5a5a; 
-            dressingScale: 3.2; 
-            dressingVariance: [object Object];  
-            dressingOnPlayArea: 0.07; 
-            shadowSize: 10.52;
-            preset: starry"
+          
+            <a-plane color="#CCC" height="2000" width="2000" rotation="-90 0 0" shadow="receive: true"></a-plane>
+<a-entity
+              gltf-model={Titulo}
+              scale="1 1 1"
+              position="2 8.2 -14.8"
             />
+            <a-light
+            intensity="0.3"
+            type="point"
+            position="0 8.5 -14.50"
+            castShadow="true"/>
+              <a-light
+            intensity="0.3"
+            type="point"
+            position="0 16.5 -14.50"/>
+             <a-light
+            intensity="0.5"
+            type="point"
+            position="0 0.5 -14.50"/>
 
+<a-entity light="type: point; intensity: 0.6; castShadow: true; color: #fffbbf"  position="2 4 0"  />
+       
+
+       <a-box position=" 2 3 -3" rotation="2 45 0" color="#4CC3D9" shadow="receive: true"/>
             <a-entity
               gltf-model={ShitHappens}
-              scale="3 3 3"
-              position="0 0 -24.8"
+              scale="2 2 2"
+              position="0 0.3 -25.8"
+              shadow="receive: true"
             />
 
+<a-entity
+animation="property: position; to: 1 1 -10; dur: 80000; easing: linear; loop: true"
+              gltf-model={Gallina}
+              scale="4 4 4"
+              position="-6 0.3 -28.8"
+            />
+             <a-entity
+              gltf-model={Bodega}
+              scale="19 19 19"
+              position="0 15.810 8"
+            />
             
+             
           </a-scene>
         </>
       </div>
