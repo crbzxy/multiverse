@@ -3,138 +3,6 @@
         "generator" : "Khronos glTF Blender I/O v1.5.17",
         "version" : "2.0"
     },
-    "extensionsUsed" : [
-        "KHR_lights_punctual"
-    ],
-    "extensionsRequired" : [
-        "KHR_lights_punctual"
-    ],
-    "extensions" : {
-        "KHR_lights_punctual" : {
-            "lights" : [
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.001"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.002"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.003"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.004"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.005"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.006"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.007"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.008"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.009"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.010"
-                },
-                {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 10,
-                    "type" : "point",
-                    "name" : "Punto.011"
-                }
-            ]
-        }
-    },
     "scene" : 0,
     "scenes" : [
         {
@@ -142,18 +10,7 @@
             "nodes" : [
                 0,
                 1,
-                3,
-                5,
-                7,
-                9,
-                11,
-                13,
-                15,
-                17,
-                19,
-                21,
-                23,
-                25
+                2
             ]
         }
     ],
@@ -187,304 +44,41 @@
             ]
         },
         {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 0
-                }
-            },
-            "name" : "Punto_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                2
-            ],
-            "name" : "Punto"
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 1
-                }
-            },
-            "name" : "Punto.001_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                4
-            ],
-            "name" : "Punto.001",
+            "name" : "luz",
             "translation" : [
-                11.774171829223633,
-                1.8839367628097534,
-                -11.503634452819824
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 2
-                }
-            },
-            "name" : "Punto.002_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                6
-            ],
-            "name" : "Punto.002",
-            "translation" : [
-                11.774171829223633,
-                1.8839367628097534,
-                14.368134498596191
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 3
-                }
-            },
-            "name" : "Punto.003_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                8
-            ],
-            "name" : "Punto.003",
-            "translation" : [
-                -0.18803071975708008,
-                1.540907859802246,
-                -16.57499885559082
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 4
-                }
-            },
-            "name" : "Punto.004_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                10
-            ],
-            "name" : "Punto.004",
-            "translation" : [
-                -11.170553207397461,
-                1.6065685749053955,
-                -17.08905029296875
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 5
-                }
-            },
-            "name" : "Punto.005_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                12
-            ],
-            "name" : "Punto.005",
-            "translation" : [
-                -11.170553207397461,
-                1.6065685749053955,
-                -17.08905029296875
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 6
-                }
-            },
-            "name" : "Punto.006_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                14
-            ],
-            "name" : "Punto.006",
-            "translation" : [
-                -11.170553207397461,
-                1.6065685749053955,
-                -5.439981460571289
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 7
-                }
-            },
-            "name" : "Punto.007_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                16
-            ],
-            "name" : "Punto.007",
-            "translation" : [
-                -11.170553207397461,
-                1.6065685749053955,
-                5.125452995300293
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 8
-                }
-            },
-            "name" : "Punto.008_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                18
-            ],
-            "name" : "Punto.008",
-            "translation" : [
-                -11.170553207397461,
-                1.6065685749053955,
-                -5.439981460571289
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 9
-                }
-            },
-            "name" : "Punto.009_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                20
-            ],
-            "name" : "Punto.009",
-            "translation" : [
-                -11.170553207397461,
-                1.6065685749053955,
-                -5.439981460571289
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 10
-                }
-            },
-            "name" : "Punto.010_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                22
-            ],
-            "name" : "Punto.010",
-            "translation" : [
-                -11.170553207397461,
-                1.6065685749053955,
-                15.013616561889648
-            ]
-        },
-        {
-            "extensions" : {
-                "KHR_lights_punctual" : {
-                    "light" : 11
-                }
-            },
-            "name" : "Punto.011_Orientation",
-            "rotation" : [
-                -0.7071067690849304,
-                0,
-                0,
-                0.7071067690849304
-            ]
-        },
-        {
-            "children" : [
-                24
-            ],
-            "name" : "Punto.011",
-            "translation" : [
-                0.5589151382446289,
-                1.6065685749053955,
-                15.013616561889648
+                0.16630932688713074,
+                2.4225854873657227,
+                -0.33666205406188965
             ]
         }
     ],
     "materials" : [
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.4769911766052246,
+                0.4769911766052246,
+                0.4769911766052246
+            ],
+            "name" : "Material.002",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
             "name" : "Material.001",
             "pbrMetallicRoughness" : {
                 "metallicFactor" : 0,
@@ -502,7 +96,8 @@
                         "NORMAL" : 1,
                         "TEXCOORD_0" : 2
                     },
-                    "indices" : 3
+                    "indices" : 3,
+                    "material" : 0
                 }
             ]
         },
@@ -515,7 +110,7 @@
                         "NORMAL" : 5
                     },
                     "indices" : 6,
-                    "material" : 0
+                    "material" : 1
                 }
             ]
         }
