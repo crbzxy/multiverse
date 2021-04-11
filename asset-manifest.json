@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/multiverse/static/css/main.2da583af.chunk.css",
-    "main.js": "/multiverse/static/js/main.14a5886c.chunk.js",
-    "main.js.map": "/multiverse/static/js/main.14a5886c.chunk.js.map",
-    "runtime-main.js": "/multiverse/static/js/runtime-main.5bb2a044.js",
-    "runtime-main.js.map": "/multiverse/static/js/runtime-main.5bb2a044.js.map",
-    "static/js/2.10cf2b54.chunk.js": "/multiverse/static/js/2.10cf2b54.chunk.js",
-    "static/js/2.10cf2b54.chunk.js.map": "/multiverse/static/js/2.10cf2b54.chunk.js.map",
-    "static/js/3.31e3cf32.chunk.js": "/multiverse/static/js/3.31e3cf32.chunk.js",
-    "static/js/3.31e3cf32.chunk.js.map": "/multiverse/static/js/3.31e3cf32.chunk.js.map",
+    "main.css": "/multiverse/static/css/main.7d25b99f.chunk.css",
+    "main.js": "/multiverse/static/js/main.0e857a20.chunk.js",
+    "main.js.map": "/multiverse/static/js/main.0e857a20.chunk.js.map",
+    "runtime-main.js": "/multiverse/static/js/runtime-main.785a0cdb.js",
+    "runtime-main.js.map": "/multiverse/static/js/runtime-main.785a0cdb.js.map",
+    "static/js/2.070f59c2.chunk.js": "/multiverse/static/js/2.070f59c2.chunk.js",
+    "static/js/2.070f59c2.chunk.js.map": "/multiverse/static/js/2.070f59c2.chunk.js.map",
+    "static/js/3.0996119a.chunk.js": "/multiverse/static/js/3.0996119a.chunk.js",
+    "static/js/3.0996119a.chunk.js.map": "/multiverse/static/js/3.0996119a.chunk.js.map",
     "index.html": "/multiverse/index.html",
-    "static/css/main.2da583af.chunk.css.map": "/multiverse/static/css/main.2da583af.chunk.css.map",
-    "static/js/2.10cf2b54.chunk.js.LICENSE.txt": "/multiverse/static/js/2.10cf2b54.chunk.js.LICENSE.txt",
-    "static/media/galeria.d2202892.gltf": "/multiverse/static/media/galeria.d2202892.gltf"
+    "static/css/main.7d25b99f.chunk.css.map": "/multiverse/static/css/main.7d25b99f.chunk.css.map",
+    "static/js/2.070f59c2.chunk.js.LICENSE.txt": "/multiverse/static/js/2.070f59c2.chunk.js.LICENSE.txt",
+    "static/media/Prevportal.13629f37.png": "/multiverse/static/media/Prevportal.13629f37.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bb2a044.js",
-    "static/js/2.10cf2b54.chunk.js",
-    "static/css/main.2da583af.chunk.css",
-    "static/js/main.14a5886c.chunk.js"
+    "static/js/runtime-main.785a0cdb.js",
+    "static/js/2.070f59c2.chunk.js",
+    "static/css/main.7d25b99f.chunk.css",
+    "static/js/main.0e857a20.chunk.js"
   ]
 }
