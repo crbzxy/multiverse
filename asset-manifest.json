@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/multiverse/static/css/main.83e182de.chunk.css",
-    "main.js": "/multiverse/static/js/main.e266136b.chunk.js",
-    "main.js.map": "/multiverse/static/js/main.e266136b.chunk.js.map",
-    "runtime-main.js": "/multiverse/static/js/runtime-main.01621d81.js",
-    "runtime-main.js.map": "/multiverse/static/js/runtime-main.01621d81.js.map",
-    "static/js/2.a4bc681f.chunk.js": "/multiverse/static/js/2.a4bc681f.chunk.js",
-    "static/js/2.a4bc681f.chunk.js.map": "/multiverse/static/js/2.a4bc681f.chunk.js.map",
-    "static/js/3.10aa325c.chunk.js": "/multiverse/static/js/3.10aa325c.chunk.js",
-    "static/js/3.10aa325c.chunk.js.map": "/multiverse/static/js/3.10aa325c.chunk.js.map",
+    "main.css": "/multiverse/static/css/main.2da583af.chunk.css",
+    "main.js": "/multiverse/static/js/main.14a5886c.chunk.js",
+    "main.js.map": "/multiverse/static/js/main.14a5886c.chunk.js.map",
+    "runtime-main.js": "/multiverse/static/js/runtime-main.5bb2a044.js",
+    "runtime-main.js.map": "/multiverse/static/js/runtime-main.5bb2a044.js.map",
+    "static/js/2.10cf2b54.chunk.js": "/multiverse/static/js/2.10cf2b54.chunk.js",
+    "static/js/2.10cf2b54.chunk.js.map": "/multiverse/static/js/2.10cf2b54.chunk.js.map",
+    "static/js/3.31e3cf32.chunk.js": "/multiverse/static/js/3.31e3cf32.chunk.js",
+    "static/js/3.31e3cf32.chunk.js.map": "/multiverse/static/js/3.31e3cf32.chunk.js.map",
     "index.html": "/multiverse/index.html",
-    "static/css/main.83e182de.chunk.css.map": "/multiverse/static/css/main.83e182de.chunk.css.map",
-    "static/js/2.a4bc681f.chunk.js.LICENSE.txt": "/multiverse/static/js/2.a4bc681f.chunk.js.LICENSE.txt",
-    "static/media/bodega.06f77669.gltf": "/multiverse/static/media/bodega.06f77669.gltf",
-    "static/media/gallina.589c6cc4.gltf": "/multiverse/static/media/gallina.589c6cc4.gltf",
-    "static/media/scene.2add95ee.gltf": "/multiverse/static/media/scene.2add95ee.gltf",
-    "static/media/titulo.22bc3c14.gltf": "/multiverse/static/media/titulo.22bc3c14.gltf"
+    "static/css/main.2da583af.chunk.css.map": "/multiverse/static/css/main.2da583af.chunk.css.map",
+    "static/js/2.10cf2b54.chunk.js.LICENSE.txt": "/multiverse/static/js/2.10cf2b54.chunk.js.LICENSE.txt",
+    "static/media/galeria.d2202892.gltf": "/multiverse/static/media/galeria.d2202892.gltf"
   },
   "entrypoints": [
-    "static/js/runtime-main.01621d81.js",
-    "static/js/2.a4bc681f.chunk.js",
-    "static/css/main.83e182de.chunk.css",
-    "static/js/main.e266136b.chunk.js"
+    "static/js/runtime-main.5bb2a044.js",
+    "static/js/2.10cf2b54.chunk.js",
+    "static/css/main.2da583af.chunk.css",
+    "static/js/main.14a5886c.chunk.js"
   ]
 }
