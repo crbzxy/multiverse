@@ -2,7 +2,7 @@ import React from 'react';
 
 import "./Scss/index.scss";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Hueso from "../src/views/Hueso"
+import Galeria from "../src/views/Galeria"
 
 function App() {
   return (
@@ -10,7 +10,8 @@ function App() {
       <Router>
       <Switch>
       <Route path="/">
-              <Hueso/>
+              
+              <Galeria/>
             </Route>
       </Switch>
       </Router>
