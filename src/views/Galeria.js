@@ -48,10 +48,10 @@ const Hueso = () => {
             /> */}
 
             <a-link
-              href="https://crbzxy.github.io/helloworld/"
+              href="https://crbzxy.github.io/errar/"
               title="Errar-Possibility of light"
               scale="6 6 6"
-              position="-1 8 -30"
+              position="-1 8 -25"
               image="#demo"
               borderColor="black"
               event-set__enter="_event: mouseenter; _target: #demo; visible: true"
