@@ -20,7 +20,7 @@ const Hueso = () => {
           <a-scene background="color: red">
             <a-camera position="3 7 2">
               <a-cursor
-                material="color: green"
+                material="color:#76ff03"
                 cursor="fuse: false; fuseTimeout: 1000"
               ></a-cursor>
             </a-camera>
