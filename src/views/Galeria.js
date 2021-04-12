@@ -5,7 +5,7 @@ require("aframe");
 require("aframe-environment-component");
 require("aframe-liquid-portal-shader");
 require("aframe-event-set-component");
-import("aframe-gif-shader");
+//import("aframe-gif-shader");
 
 // import campo from "../img/equ.jpg";
 
@@ -34,12 +34,12 @@ const Hueso = () => {
                 crossorigin="anonymous"
               />
             </a-assets>
-            <a-entity
+            {/* <a-entity
               geometry="primitive: plane;"
               material="shader:gif;src:url(https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif);"
               scale="6 6 6"
               position="50 8 -30"
-            ></a-entity>
+            ></a-entity> */}
 
             <a-entity
               environment="preset:checkerboard; castShadow: true; fog:0.7; groundColor:white; groundColor2:#fcfcfc"
