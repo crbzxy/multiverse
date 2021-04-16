@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/multiverse/static/css/main.dcc34bd4.chunk.css",
-    "main.js": "/multiverse/static/js/main.907e0846.chunk.js",
-    "main.js.map": "/multiverse/static/js/main.907e0846.chunk.js.map",
+    "main.js": "/multiverse/static/js/main.6110e35a.chunk.js",
+    "main.js.map": "/multiverse/static/js/main.6110e35a.chunk.js.map",
     "runtime-main.js": "/multiverse/static/js/runtime-main.785a0cdb.js",
     "runtime-main.js.map": "/multiverse/static/js/runtime-main.785a0cdb.js.map",
     "static/js/2.4ed4ff39.chunk.js": "/multiverse/static/js/2.4ed4ff39.chunk.js",
@@ -15,12 +15,13 @@
     "static/media/Prevportal.13629f37.png": "/multiverse/static/media/Prevportal.13629f37.png",
     "static/media/Prevportalegg.1c94f926.png": "/multiverse/static/media/Prevportalegg.1c94f926.png",
     "static/media/Prevportalhappy.288e87fd.png": "/multiverse/static/media/Prevportalhappy.288e87fd.png",
+    "static/media/Prevportaluk.5b7ef64f.png": "/multiverse/static/media/Prevportaluk.5b7ef64f.png",
     "static/media/Prevportalunite.d212639d.png": "/multiverse/static/media/Prevportalunite.d212639d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.785a0cdb.js",
     "static/js/2.4ed4ff39.chunk.js",
     "static/css/main.dcc34bd4.chunk.css",
-    "static/js/main.907e0846.chunk.js"
+    "static/js/main.6110e35a.chunk.js"
   ]
 }
