@@ -32,27 +32,29 @@ const Hueso = () => {
               {/* <a-asset-item id="cristal" src={cristal}></a-asset-item> */}
               <img
                 id="demo"
-                alt="hola"
+                alt="demo"
                 src={prevportal}
                 crossorigin="anonymous"
               />
-                <img
-                id="egg"
-                alt="hola"
-                src={prevportalegg}
-                crossorigin="anonymous"
-              />
+
               <img
                 id="happy"
-                alt="hola"
+                alt="happy"
                 src={prevportalhappy}
                 crossorigin="anonymous"
               />
 
-<img
+              <img
                 id="unite"
                 alt="unite"
                 src={prevportalunite}
+                crossorigin="anonymous"
+              />
+
+              <img
+                id="egg"
+                alt="egg"
+                src={prevportalegg}
                 crossorigin="anonymous"
               />
             </a-assets>
@@ -88,7 +90,6 @@ const Hueso = () => {
               material=""
               geometry=""
               rotation="65.60284511050699 0 0"
-              
             />
             <a-torus-knot
               arc="360"
@@ -102,7 +103,6 @@ const Hueso = () => {
               material=""
               geometry=""
               rotation="65.60284511050699 0 0"
-              
             />
             <a-link
               href="https://crbzxy.github.io/errar/"
@@ -155,8 +155,6 @@ const Hueso = () => {
                 position="0 0 0.01"
               />
             </a-link>
-
-
 
             <a-link
               href="https://crbzxy.github.io/unite/"
