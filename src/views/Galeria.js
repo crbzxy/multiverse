@@ -2,6 +2,7 @@ import React from "react";
 import prevportal from "../img/Prevportal.png";
 import prevportalhappy from "../img/Prevportalhappy.png";
 import prevportalunite from "../img/Prevportalunite.png";
+import prevportalegg from "../img/Prevportalegg.png";
 
 require("aframe");
 require("aframe-environment-component");
@@ -33,6 +34,12 @@ const Hueso = () => {
                 id="demo"
                 alt="hola"
                 src={prevportal}
+                crossorigin="anonymous"
+              />
+                <img
+                id="egg"
+                alt="hola"
+                src={prevportalegg}
                 crossorigin="anonymous"
               />
               <img
@@ -134,14 +141,14 @@ const Hueso = () => {
 
             <a-link
               href="https://crbzxy.github.io/xyz/"
-              title="????? "
+              title="?????"
               scale="6 6 6"
               position="-80 8 -65"
-              image="#demo"
+              image="#egg"
               backgroundColor="blue"
             >
               <a-image
-                src="#happy"
+                src="#egg"
                 material="shader: liquid-portal"
                 scale="2 2 2"
                 backgroundColor="blue"
