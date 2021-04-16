@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/multiverse/static/css/main.dcc34bd4.chunk.css",
-    "main.js": "/multiverse/static/js/main.6110e35a.chunk.js",
-    "main.js.map": "/multiverse/static/js/main.6110e35a.chunk.js.map",
+    "main.js": "/multiverse/static/js/main.9a22d2bc.chunk.js",
+    "main.js.map": "/multiverse/static/js/main.9a22d2bc.chunk.js.map",
     "runtime-main.js": "/multiverse/static/js/runtime-main.785a0cdb.js",
     "runtime-main.js.map": "/multiverse/static/js/runtime-main.785a0cdb.js.map",
     "static/js/2.4ed4ff39.chunk.js": "/multiverse/static/js/2.4ed4ff39.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.785a0cdb.js",
     "static/js/2.4ed4ff39.chunk.js",
     "static/css/main.dcc34bd4.chunk.css",
-    "static/js/main.6110e35a.chunk.js"
+    "static/js/main.9a22d2bc.chunk.js"
   ]
 }
